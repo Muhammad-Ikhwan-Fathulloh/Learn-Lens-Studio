@@ -1,5 +1,6 @@
 # Learn-Lens-Studio
 Submission Dicoding Lens Studio Snapchat
+<a href="https://my-lenses.snapchat.com/lenses">Lenses Snapchat</a>
 
 ### Belajar Efek Hijau
 <strong>Screenshot</strong>
